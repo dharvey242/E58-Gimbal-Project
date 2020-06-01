@@ -18,10 +18,10 @@ Notes – check all voltages – micro needs 5v only.
 1.	Open the drone up but undoing all the screws.
 2.	Take out all the internal boards (2 in essence. Main board and on/off switch and SD card/camera board.
 3.	Wire up the micro to the main board power + and ground.
-4.	Now the wire that goes to the SD card board that now needs to go to the micro pin 9.
+4.	Now the wire that goes to the SD card board that now needs to go to the micro pin 8 and the same wire going to the sd card (yellow)
 5.	The servo requires three wires, positive, negative and signal.  
 6.	Wire servo + and negative to main board power terminals.
-7.	Pin 1 on the micro now goes to the servo
+7.	Pin 9 on the micro now goes to the servo
 8.	Upload sketch to micro (in this git)
 9.	Test.  When the button is pressed the servo should rotate up or down
 10.	Glue 3d printed bracket to lower case.

@@ -11,7 +11,7 @@ What we’ll need.
 2.	An Ardunio Micro
 3.	Some wires to solder it up
 4.	A pico servo motor (https://www.espruino.com/Servo+Motors)
-5.	3d printed gimbal bracket
+5.	3d printed gimbal bracket - .STL attached.
 
 Steps
 Notes – check all voltages – micro needs 5v only.

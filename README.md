@@ -1,17 +1,17 @@
-# E58-Gimble-Project
-E58 Gimble Project
+# E58-Gimbal-Project
+E58 Gimbal Project
 https://www.youtube.com/watch?v=9We7zRGdLF4&lc=UgwFp6yRhZ_iBawvzqJ4AaABAg&feature=em-comments
-For those that wanted to know how I added the gimble to the front of the E58 drone.  I take NO responsibility should anything go wrong with your drone.  I’m basically trying to remember what I did a few years ago.  So please understand if something isn’t quite right or you spot an error.
+For those that wanted to know how I added the gimbal to the front of the E58 drone.  I take NO responsibility should anything go wrong with your drone.  I’m basically trying to remember what I did a few years ago.  So please understand if something isn’t quite right or you spot an error.
 
 Note recording to the SD will no longer work after this.
 
-What we’re going to attempt to do is repurpose the wire that starts the SD card board recording so that instead of starting and stopping the record function (through the button press on the remote) it now sends the signal to the Arduino Micro which in turn moves the gimble up or down when pressed.
+What we’re going to attempt to do is repurpose the wire that starts the SD card board recording so that instead of starting and stopping the record function (through the button press on the remote) it now sends the signal to the Arduino Micro which in turn moves the gimbal up or down when pressed.
 What we’ll need.
 1.	A Dremel or something similar to cut the bottom part off the drone case as seen in the video.
 2.	An Ardunio Micro
 3.	Some wires to solder it up
 4.	A pico servo motor (https://www.espruino.com/Servo+Motors)
-5.	3d printed gimble bracket
+5.	3d printed gimbal bracket
 
 Steps
 Notes – check all voltages – micro needs 5v only.
